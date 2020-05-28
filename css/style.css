@@ -5,7 +5,7 @@ body{
 }
 /*Header start*/
 header{
-	width:90%;
+	width:95%;
 	overflow:hidden;
 	margin:0 auto;
 	padding:10px;
@@ -13,7 +13,7 @@ header{
 .logo{
 	width:15%;
 	float:left;
-	margin-left:40px;
+	margin-left:20px;
 }
 .logo img{
 	width:100%;
@@ -25,6 +25,7 @@ header{
 }
 .menu ul{
 	overflow:hidden;
+	float:right;
 }
 .menu ul li{
 	list-style:none;
