@@ -1,40 +1,39 @@
 body{
-	margin: auto;
-	padding: auto;
+	margin:0;
+	padding:0;
 }
 /*Header start*/
 header{
-	overflow: hidden;
-	background-color: #121B2A;
-	padding:10px;
+	overflow:hidden;
+	background-color:#121B2A;
+	padding-top:10px;
+	padding-bottom:10px;
 }
 .logo{
-	width: 20%;
-	float: left;
+	width:20%;
+	float:left;
 	margin-left:40px;
 }
-.logo img{
-}
 .menu{
-	width: 60%;
-	float: right;
-	margin-top: 40px;
+	width:60%;
+	float:right;
+	margin-top:40px;
 }
 .menu ul{
-	overflow: hidden;
+	overflow:hidden;
 }
 .menu ul li{
-	list-style: none;
-	float: left;
+	list-style:none;
+	float:left;
 }
 .menu ul li a{
-	font-family: sans-serif;
+	font-family:sans-serif;
 	font-size:14px;
 	color:white;
 	text-decoration:none;
 	text-transform:uppercase;
-	padding:0 25px;
-	display: inline-block;
+	padding:0 22px;
+	display:inline-block;
 }
 .menu ul li a:hover{
 	color:#0177BD;
@@ -42,6 +41,6 @@ header{
 /*header end*/
 /*banner start*/
 .banner img{
-	width: 100%;
+	width:100%;
 }
 /*banner end*/
