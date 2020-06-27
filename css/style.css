@@ -49,6 +49,7 @@ header{
 	background-image:url(../image/banner.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
+	background-position:center;
 	overflow:hidden;
 }
 .content{
@@ -136,7 +137,7 @@ header{
 }
 .single1{
 	font-family:sans-serif;
-	font-size:12px;
+	font-size:70%;
 	color:white;
 	width:27%;
 	float:left;
@@ -187,7 +188,7 @@ footer{
 	font-family:sans-serif;
 	font-size:12px;
 	color:white;
-	width:60%;
+	width:65%;
 	float: left;
 
 }
@@ -200,7 +201,7 @@ footer{
 }
 .menu1 ul li a{
 	color: white;
-	margin:14px;
+	margin:10px;
 	text-decoration:none;
 }
 .menu1 ul li a:hover{
@@ -210,7 +211,7 @@ footer{
 	margin:14px;
 }
 .logo1{
-	width:40%;
+	width:35%;
 	float: right;
 }
 .logo1 img{
